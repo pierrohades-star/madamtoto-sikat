@@ -3346,23 +3346,23 @@ body.rjb-earthquake-active {
     
 
 <div class="MADAMTOTO-fixed-footer">
-  <a href="##$$##/" target="_blank" rel="nofollow noopener">
+  <a href="https://madamtoto-sikat.pages.dev/madamtoto-404/amp/" target="_blank" rel="nofollow noopener">
     <img src="https://madamtoto-sikat.pages.dev/madamtoto/themadamtotoicon.png" alt="Promo MADAMTOTO">
     PROMO
   </a>
-  <a href="##$$##/" target="_blank" rel="nofollow noopener">
+  <a href="https://madamtoto-sikat.pages.dev/madamtoto-404/amp/" target="_blank" rel="nofollow noopener">
     <img src="https://madamtoto-sikat.pages.dev/madamtoto/themadamtotoicon.png" alt="LOGIN MADAMTOTO">
     LOGIN
   </a>
-  <a href="##$$##/" target="_blank" rel="nofollow noopener" class="tada">
+  <a href="https://madamtoto-sikat.pages.dev/madamtoto-404/amp/" target="_blank" rel="nofollow noopener" class="tada">
     <img src="https://madamtoto-sikat.pages.dev/madamtoto/themadamtotoicon.png" alt="DAFTAR MADAMTOTO">
     DAFTAR
   </a>
-  <a href="##$$##/" target="_blank" rel="nofollow noopener">
+  <a href="https://madamtoto-sikat.pages.dev/madamtoto-404/amp/" target="_blank" rel="nofollow noopener">
     <img src="https://madamtoto-sikat.pages.dev/madamtoto/themadamtotoicon.png" alt="WHATSAPP PRIMATOTO">
     WHATSAPP
   </a>
-  <a href="##$$##/" target="_blank" rel="nofollow noopener">
+  <a href="https://madamtoto-sikat.pages.dev/madamtoto-404/amp/" target="_blank" rel="nofollow noopener">
     <img src="https://madamtoto-sikat.pages.dev/madamtoto/themadamtotoicon.png" alt="LIVE CHAT PRIMATOTO">
     LIVE CHAT
   </a>
